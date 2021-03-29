@@ -101,22 +101,22 @@ module.exports = {
 					fontSize: '100%',
 				},
 				'h1,.h1': {
-					fontSize: config( 'theme.fontSize.heading-xl' ),
+					fontSize: config( 'theme.fontSize.48' ),
 				},
 				'h2,.h2': {
-					fontSize: config( 'theme.fontSize.heading-lg' ),
+					fontSize: config( 'theme.fontSize.32' ),
 				},
 				'h3,.h3': {
-					fontSize: config( 'theme.fontSize.heading-md' ),
+					fontSize: config( 'theme.fontSize.24' ),
 				},
 				'h4,.h4': {
-					fontSize: config( 'theme.fontSize.heading-sm' ),
+					fontSize: config( 'theme.fontSize.22' ),
 				},
 				'h5,.h5': {
-					fontSize: config( 'theme.fontSize.heading-xs' ),
+					fontSize: config( 'theme.fontSize.20' ),
 				},
 				'h6,.h6': {
-					fontSize: config( 'theme.fontSize.heading-xs' ),
+					fontSize: config( 'theme.fontSize.18' ),
 				},
 				'h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6': {
 					marginBottom: config( 'theme.spacing.16' ),

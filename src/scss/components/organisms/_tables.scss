@@ -35,7 +35,7 @@ table {
 
 	td {
 
-		@apply block text-base text-center border border-black border-solid;
+		@apply block text-16 text-center border border-black border-solid;
 
 		@screen wp-admin-bar {
 
@@ -62,7 +62,7 @@ table {
 
 	th {
 
-		@apply text-base tracking-widest uppercase border border-solid border-black;
+		@apply text-16 tracking-widest uppercase border border-solid border-black;
 
 		@screen phone {
 
